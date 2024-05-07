@@ -3,6 +3,9 @@ This is a simplified Node.js application with intentional vulnerabilities relate
 
 **Note that this sample is for educational purposes and should not be used in production.**
 
+## Objective  
+Use this application to analyze vulnerability to session fixation or Cross-Site Request Forgery (CSRF). You can then implement appropriate fixes to resolve these issues and improve the application's overall security.
+
 ## Key Vulnerabilities:
 
 1. **Session Fixation:**
